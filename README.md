@@ -1,2 +1,2 @@
-# Stock price prediction using LSTM 
+# 📈 Stock price prediction using LSTM 
 
